@@ -1,0 +1,2 @@
+rootProject.name = "Country Flag"
+include ':app'
